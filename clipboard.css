@@ -1,0 +1,52 @@
+.television1{
+    display: flex;
+    gap: 60px;
+    margin-top: 50px;
+}
+.align{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+.enterprise{
+    justify-content: space-between;
+    display: flex;
+    margin-top: 60px;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    margin-left: 42%;
+    gap: 10px;
+}
+.greenbutton{
+    background-color: greenyellow;
+    border-radius: 30px;
+    padding:10px;
+    color: white;
+}
+.bluebutton{
+    background-color: lightseagreen;
+    border-radius: 30px;
+    padding:10px;
+    color: white;
+}
+.buttons1{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: 42%;
+}
+.greenbutton1{
+    background-color: greenyellow;
+    border-radius: 30px;
+    padding:10px;
+    color: white;
+}
+
+.bluebutton1{
+    background-color: lightseagreen;
+    border-radius: 30px;
+    padding:10px;
+    color: white;
+}
